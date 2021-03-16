@@ -9,4 +9,4 @@ Here, at the beginning of your programmer’s path, creating a simple console ch
 
 You’ll get to know the basic syntax of Java and write a simple program using variables, conditions, loops, and methods.
 
-_**This Project is a part of the JetBrains Academy java project_**
+_**This Project is a part of the JetBrains Academy java project**_
