@@ -1,4 +1,4 @@
-# Peoject-Simple-Chatty-bot
+# Java-Peoject-Simple-Chatty-bot
 
 
 **About**
